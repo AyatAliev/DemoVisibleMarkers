@@ -3,3 +3,11 @@
 
   https://github.com/user-attachments/assets/103b48f5-83db-4113-a9c5-0fb00e401e09
 
+3. Если отказать от iconOpacity. То сам параметр visible не всегда скрывают точку
+
+
+https://github.com/user-attachments/assets/57c9b2ae-ac19-4877-af3e-7449096f5523
+
+
+https://github.com/user-attachments/assets/a26c9673-2b48-4712-9762-4a10360a990e
+
